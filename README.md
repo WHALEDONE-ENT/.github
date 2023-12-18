@@ -1,1 +1,1 @@
-# .github
+# WHALEDONE-ENT.github
